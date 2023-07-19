@@ -16,7 +16,7 @@ Esto con fines de facilidad de busqueda desde las herramientas organizacionales
 
 ## Documentos principales
 
-* Enlace al documento de acuedos de contribución [Our code of conduct](CONTRIBUTING.md).
+* Enlace al documento de acuedos de contribución [Contributing Agreement](CONTRIBUTING.md).
 * Guía de Adecuar ambiente local [Getting Started](GETTINGSTARTED.md).
 
 ## Canal de comunicaciones
