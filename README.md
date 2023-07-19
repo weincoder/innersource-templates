@@ -1,5 +1,6 @@
 # (Ingrese nombre del proyecto)
-// En caso de que el proyecto se le hayan cambiado los nombres pueden agregar en la primera line lo siguiente
+// En caso de que el proyecto se le hayan cambiado los nombres pueden agregar en la primera linea lo siguiente:
+
 Este proyecto inicialmente fue conocido con los siguientes nombres:
 
 ## Descripción
@@ -13,7 +14,13 @@ Una breve introducción del proyecto donde dejemos en claro sus funcionalidades.
 ## Keywords (palabras claves del proyecto)
 Esto con fines de facilidad de busqueda desde las herramientas organizacionales
 
+## Documentos principales
+
+* Enlace al documento de acuedos de contribución [Our code of conduct](CONTRIBUTING.md).
+* Guía de Adecuar ambiente local [Getting Started](GETTINGSTARTED.md).
+
 ## Canal de comunicaciones
 En el siguiente enlace (enlace al canal) podrá suscribirse a nuestro canal para estar al tanto de las nuevas características adicionadas.
 ## Repositorios relacionados
 Si existen repositorios relacionados se pondrá una breve descripción y un enlace a los mismos
+
