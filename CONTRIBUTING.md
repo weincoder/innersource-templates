@@ -1,4 +1,5 @@
 # Contributing Agreement
+Este proyecto sigue la licencia descrita en el LICENSE.md (enlace al documento)
 
 ## Acuerdos de software (obligatorio)
 Este proyecto esta basado en el siguiente código de conducta(enlace al CODE_OF_CONDUCT.md) y contamos con las siguiente convenciones 
